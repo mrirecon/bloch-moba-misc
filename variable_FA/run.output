@@ -1,0 +1,23 @@
+results/LL_8/t1_test	0.005	CFL_NRMSE
+
+results/Bloch_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_20/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_40/t1_test	0.005	CFL_NRMSE
+results/Bloch_40/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_45/t1_test	0.005	CFL_NRMSE
+results/Bloch_45/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_50/t1_test	0.005	CFL_NRMSE
+results/Bloch_50/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_60/t1_test	0.005	CFL_NRMSE
+results/Bloch_60/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_70/t1_test	0.005	CFL_NRMSE
+results/Bloch_70/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_77/t1_test	0.005	CFL_NRMSE
+results/Bloch_77/t2_test	0.005	CFL_NRMSE
+

@@ -1,0 +1,11 @@
+./b0_invivo/run_figs.sh
+./bkgrd_influence_NIST/run_figs.sh
+./grad_delay/run_figs.sh
+./init_test/run_figs.sh
+./rtnlinv_analysis/run_figs.sh
+./shim_invivo/run_figs.sh
+./spoke_binning/run_figs.sh
+./variable_FA/run_figs.sh
+./banding_simulation/run_figs.sh
+./offres/run_figs.sh
+./rf_sinc_pulse/run_figs.sh

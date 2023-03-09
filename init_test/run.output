@@ -1,0 +1,80 @@
+results/LL_1_1/t1_test	0.005	CFL_NRMSE
+
+results/Bloch_flash_1_1/t1_test	0.005	CFL_NRMSE
+
+results/Bloch_short_0.5_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_0.5_01/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_0.5_05/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_0.5_05/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_0.5_10/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_0.5_10/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_0.5_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_0.5_20/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_1_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_1_01/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_1_05/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_1_05/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_1_10/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_1_10/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_1_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_1_20/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_2_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_2_01/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_2_05/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_2_05/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_2_10/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_2_10/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_2_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_2_20/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_3_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_3_01/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_3_05/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_3_05/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_3_10/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_3_10/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_3_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_3_20/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_5_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_5_01/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_5_05/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_5_05/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_5_10/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_5_10/t2_test	0.005	CFL_NRMSE
+
+results/Bloch_short_5_20/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_5_20/t2_test	0.005	CFL_NRMSE
+
+
+# The errors in the map are large for the following initializations.
+# This increases the errors during testing much which requires larger bounds
+
+results/Bloch_short_10_01/t1_test	0.005	CFL_NRMSE
+results/Bloch_short_10_01/t2_test	0.008	CFL_NRMSE
+
+results/Bloch_short_10_05/t1_test	0.05	CFL_NRMSE
+results/Bloch_short_10_05/t2_test	0.08	CFL_NRMSE
+
+results/Bloch_short_10_10/t1_test	0.05	CFL_NRMSE
+results/Bloch_short_10_10/t2_test	0.08	CFL_NRMSE
+
+results/Bloch_short_10_20/t1_test	0.01	CFL_NRMSE
+results/Bloch_short_10_20/t2_test	0.05	CFL_NRMSE
+

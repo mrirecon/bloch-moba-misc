@@ -1,0 +1,2 @@
+{\renewcommand{\arraystretch}{1.2}\begin{tabular}{c|c|c} $T_1$ [s] & \textbf{ROI 1} & \textbf{ROI 2} \\\hline IR FLASH & 1.054$\pm$0.436&1.059$\pm$0.161\\ Short RF & 2.041$\pm$1.623&1.777$\pm$0.132\\ Long RF & 1.734$\pm$0.719&1.621$\pm$0.072\end{tabular}}
+{\renewcommand{\arraystretch}{1.2}\begin{tabular}{c|c|c} $T_2$ [s] & \textbf{ROI 1} & \textbf{ROI 2} \\\hline Short RF & 0.333$\pm$3.191&0.028$\pm$0.003\\ Long RF & 0.64$\pm$4.491&0.029$\pm$0.002\end{tabular}}

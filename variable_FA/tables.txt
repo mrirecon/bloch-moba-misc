@@ -1,0 +1,6 @@
+{\renewcommand{\arraystretch}{1.2}\begin{tabular}{c|c|c|c} & \#ROI & $m$ [s/deg] & $b$ [s] \\\hline
+\multirow{2}{*}{$T_1$}&1&0.01$\pm$0.001&0.984$\pm$0.016\\
+&2&0.008$\pm$0.001&1.794$\pm$0.013\\\hline
+\multirow{2}{*}{$T_2$}&1&0.0003$\pm$2e-05&0.011$\pm$0.001\\
+&2&0.00026$\pm$4e-05&0.023$\pm$0.003\\
+\end{tabular}}

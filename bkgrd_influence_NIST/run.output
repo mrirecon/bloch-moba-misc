@@ -1,0 +1,19 @@
+# Extraction and Slicing out of tubes skips noisy parts of the reco, which can not be reproducible
+# Simple model
+results/t1_test1 0.005    CFL_NRMSE_EXTRACT 6 0 13
+
+# For other signal models all tubes work stable
+results/t1_test2 0.008    CFL_NRMSE
+results/t1_test3 0.008    CFL_NRMSE
+
+# Simple model
+## Simple model can not model signal for correct T2 and therefore shows large differences for larger T2 values.
+## Those are excluded for testing, because they are not relevant for the analysis here and too far off.
+results/t2_test1 0.008   CFL_NRMSE_EXTRACT 6 7 13
+
+# Other models
+## Tube with largest T2 shows larger differences. It is outside the relevant area and is therefore not tested
+results/t2_test2 0.005   CFL_NRMSE_EXTRACT 6 1 13
+results/t2_test3 0.005   CFL_NRMSE_EXTRACT 6 1 13
+
+results/rois    0.0001  CFL_NRMSE

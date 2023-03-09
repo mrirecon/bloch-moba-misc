@@ -1,0 +1,8 @@
+{\renewcommand{\arraystretch}{1.2}\begin{tabular}{c|c|c}  & $T_1$ [s] & $T_2$ [s] \\\hline
+Full Model (Bloch) ROI 0&1.45$\pm$0.025&0.019$\pm$0.001\\
+Analy. Approx. (Bloch) ROI 0&1.047$\pm$0.019&0.037$\pm$0.002\\
+Full Model (Bloch) ROI 1&2.063$\pm$0.076&0.028$\pm$0.001\\
+Analy. Approx. (Bloch) ROI 1&1.687$\pm$0.054&0.058$\pm$0.007\\
+Analytical Fit ROI 0&1.034$\pm$0.017&0.045$\pm$0.001\\
+Analytical Fit ROI 1&1.699$\pm$0.028&0.062$\pm$0.001\\
+\end{tabular}}
