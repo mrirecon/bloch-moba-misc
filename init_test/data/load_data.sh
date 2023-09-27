@@ -12,11 +12,18 @@ ABS_PATH=$(dirname ${FULL_PATH})
 FILES=(data_06_irflash data_06_irbssfp_short)
 OUT=(ksp_flash ksp_short)
 
+source ${ABS_PATH}/../../utils/data_loc.sh
+
 for (( i=0; i<${#FILES[@]}; i++ ));
 do
 	if [[ ! -f "${OUT[$i]}.cfl" ]];
 	then
-		bart copy ${ABS_PATH}/../../data/${FILES[$i]} ${ABS_PATH}/${OUT[$i]}
+		if [[ -f $DATA_LOC2/${FILES[$i]}".cfl" ]];
+		then
+			bart copy $DATA_LOC2/${FILES[$i]} ${ABS_PATH}/${OUT[$i]}
+		else
+			bart copy ${ABS_PATH}/../../data/${FILES[$i]} ${ABS_PATH}/${OUT[$i]}
+		fi
 
 		echo "Generated output file: ${OUT[$i]}.{cfl,hdr}" >&2
 	fi
