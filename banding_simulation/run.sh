@@ -2,6 +2,8 @@
 
 set -e
 
+export BART_COMPAT_VERSION=v0.9.00
+
 # File to store off-resonance
 [ -f off.txt ] && rm off.txt
 touch off.txt

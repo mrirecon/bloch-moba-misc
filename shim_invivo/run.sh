@@ -2,6 +2,8 @@
 
 set -e
 
+export BART_COMPAT_VERSION=v0.9.00
+
 # Load SS IR FLASH data
 ./data/load_data.sh
 

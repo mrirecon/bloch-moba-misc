@@ -3,6 +3,8 @@
 
 set -euxB
 
+export BART_COMPAT_VERSION=v0.9.00
+
 # ---------------------------
 #         moba recons
 # ---------------------------
