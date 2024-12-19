@@ -23,12 +23,12 @@ SR2=$3
 case ${MODEL} in
 
 LL | Bloch_flash)
-	RAW=ksp_flash
+	RAW=data/ksp_flash
 	;;
 
 Bloch_short)
 
-	RAW=ksp_short
+	RAW=data/ksp_short
 
 	# Load B1 map
 	./b1map/load_b1map.sh mask/mask
@@ -36,7 +36,7 @@ Bloch_short)
 
 Bloch_long)
 
-	RAW=ksp_long
+	RAW=data/ksp_long
 
 	# Load B1 map
 	./b1map/load_b1map.sh mask/mask
