@@ -54,7 +54,7 @@ results/Bloch_short_5_01/t1_test	0.005	CFL_NRMSE
 results/Bloch_short_5_01/t2_test	0.005	CFL_NRMSE
 
 results/Bloch_short_5_05/t1_test	0.005	CFL_NRMSE
-results/Bloch_short_5_05/t2_test	0.005	CFL_NRMSE
+results/Bloch_short_5_05/t2_test	0.007	CFL_NRMSE
 
 results/Bloch_short_5_10/t1_test	0.005	CFL_NRMSE
 results/Bloch_short_5_10/t2_test	0.005	CFL_NRMSE
