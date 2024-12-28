@@ -31,6 +31,7 @@ cp sens.{cfl,hdr} $RESULTS || true
 cp reco.{cfl,hdr} $RESULTS || true
 cp roi.{cfl,hdr} $RESULTS || true
 cp ref_roi.{cfl,hdr} $RESULTS || true
+cp sim.{cfl,hdr} $RESULTS || true
 
 # Save additional information
 
