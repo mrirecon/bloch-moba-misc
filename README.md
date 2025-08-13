@@ -1,3 +1,8 @@
+**The main repository has moved to: https://gitlab.tugraz.at/ibi/mrirecon/miscellaneous/bloch-moba-misc**
+
+**Please check there for updates.**
+
+
 # Quantitative Multi-Parameter Mapping in Magnetic Resonance Imaging
 
 This repository includes the scripts to create the Figures for chapter 5 of
